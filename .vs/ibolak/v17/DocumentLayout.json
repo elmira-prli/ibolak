@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elmiraep\\source\\repos\\ibolak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA67CC85-A0BD-4754-A477-174D94857F69}|ibolak\\ibolak.csproj|c:\\users\\elmiraep\\source\\repos\\ibolak\\ibolak\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA67CC85-A0BD-4754-A477-174D94857F69}|ibolak\\ibolak.csproj|solutionrelative:ibolak\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA67CC85-A0BD-4754-A477-174D94857F69}|ibolak\\ibolak.csproj|c:\\users\\elmiraep\\source\\repos\\ibolak\\ibolak\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA67CC85-A0BD-4754-A477-174D94857F69}|ibolak\\ibolak.csproj|solutionrelative:ibolak\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA67CC85-A0BD-4754-A477-174D94857F69}|ibolak\\ibolak.csproj|c:\\users\\elmiraep\\source\\repos\\ibolak\\ibolak\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA67CC85-A0BD-4754-A477-174D94857F69}|ibolak\\ibolak.csproj|solutionrelative:ibolak\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA67CC85-A0BD-4754-A477-174D94857F69}|ibolak\\ibolak.csproj|c:\\users\\elmiraep\\source\\repos\\ibolak\\ibolak\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA67CC85-A0BD-4754-A477-174D94857F69}|ibolak\\ibolak.csproj|solutionrelative:ibolak\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\elmiraep\\source\\repos\\ibolak\\ibolak\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "ibolak\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\elmiraep\\source\\repos\\ibolak\\ibolak\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "ibolak\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-28T18:39:12.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Footer.razor",
+              "DocumentMoniker": "C:\\Users\\elmiraep\\source\\repos\\ibolak\\ibolak\\Layout\\Footer.razor",
+              "RelativeDocumentMoniker": "ibolak\\Layout\\Footer.razor",
+              "ToolTip": "C:\\Users\\elmiraep\\source\\repos\\ibolak\\ibolak\\Layout\\Footer.razor",
+              "RelativeToolTip": "ibolak\\Layout\\Footer.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T18:31:57.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavBar.razor",
+              "DocumentMoniker": "C:\\Users\\elmiraep\\source\\repos\\ibolak\\ibolak\\Layout\\NavBar.razor",
+              "RelativeDocumentMoniker": "ibolak\\Layout\\NavBar.razor",
+              "ToolTip": "C:\\Users\\elmiraep\\source\\repos\\ibolak\\ibolak\\Layout\\NavBar.razor",
+              "RelativeToolTip": "ibolak\\Layout\\NavBar.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T18:31:22.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\elmiraep\\source\\repos\\ibolak\\ibolak\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "ibolak\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\elmiraep\\source\\repos\\ibolak\\ibolak\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "ibolak\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T18:27:02.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
